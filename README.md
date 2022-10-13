@@ -5,4 +5,4 @@
  React | TypeScript | JavaScript | HTML | CSS
  
  Backend:
- Django | Rest | SQLite
+ Python | Django | Rest | SQLite
